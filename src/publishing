@@ -1,0 +1,5 @@
+npm i gh-pages 
+// github pages에 퍼블리싱 할 수 있도록 제공하는 pakage
+
+package.json의  build 확인
+npm run build
